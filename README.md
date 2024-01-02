@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://chat.openai.com/share/f6946432-c0e8-4bf3-bdcb-86bc229313be
+
+https://chat.openai.com/share/4ac01023-b4ce-4b1d-9f93-7b570f7485f6
