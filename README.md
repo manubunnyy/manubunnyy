@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://chat.openai.com/share/f3afcce9-7c50-4ad2-a15f-f527a2358810
