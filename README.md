@@ -12,6 +12,8 @@
 
 <p align="center">
   <!-- LinkedIn -->
+<p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mangalarapu-manu/" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=linkedin"
@@ -20,13 +22,12 @@
     />
   </a>
 
-  <!-- LeetCode (legacy, stable icon) -->
+  <!-- LeetCode (COLORED, STABLE) -->
   <a href="https://leetcode.com/u/mangalarapumanu/" target="_blank">
     <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg"
-      height="32"
+      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+      height="36"
       alt="LeetCode"
-      style="filter: invert(48%) sepia(90%) saturate(400%) hue-rotate(10deg);"
     />
   </a>
 
@@ -39,6 +40,7 @@
     />
   </a>
 </p>
+
 
 ---
 
