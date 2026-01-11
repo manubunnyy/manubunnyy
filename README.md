@@ -7,62 +7,72 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mangalarapu-manu/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="28" width="38" />
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" width="40"/>
   </a>
   <a href="https://leetcode.com/mangalarapumanu/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="28" width="38" />
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="30" width="40"/>
   </a>
   <a href="mailto:mangalarapumanu@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="28" width="38" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" width="40"/>
   </a>
   <a href="https://gitlab.com/manubunnyy" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gitlab.svg" height="28" width="38" />
+    <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="30" width="40"/>
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
-- 🎯 Building and optimizing my **developer portfolio**
-- 🌱 Currently learning **MongoDB** & **NestJS**
-- 💼 Strong in **Node.js, React.js, Next.js**
+## 🚀 About Me
+- 🎯 Currently developing and refining my **personal portfolio**
+- 🌱 Learning **MongoDB** and **NestJS**
+- 💼 Strong experience with **Node.js, React.js, Next.js**
 - 🤝 Open to **Open Source collaborations**
-- 📱 Exploring **React Native**
-- 🧠 Active **LeetCode** problem solver  
+- 📱 Seeking hands-on exposure to **React Native**
+- 🧠 Active problem solver on **LeetCode**
 
-> *If the challenge is in my court, I deliver.* 😉
+> *If the ball is in my court, execution is guaranteed.*
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nextdotjs.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nodejs.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mongodb.svg" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" height="30"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,git&theme=light" />
 </p>
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Activity & Insights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangalarapumanu&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mangalarapumanu&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mangalarapumanu&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mangalarapumanu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangalarapumanu&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mangalarapumanu&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### ⚡ Fun Fact
-> Under pressure, I code in **half-sleep mode** — still shipping results.
+## 🧠 Competitive Programming
+- 🔗 LeetCode: https://leetcode.com/u/mangalarapumanu/
+- Focus: **Data Structures, Algorithms, Problem Solving**
 
-⭐ *If my work adds value, star a repo. Let’s build things that scale.*
+---
+
+## 📂 Version Control Footprint
+- 🔗 GitLab Contributions: https://gitlab.com/manubunnyy
+
+---
+
+## ⚡ Fun Fact
+> Under stress, I code in a **half-sleep, high-output mode** — and still ship.
+
+---
+
+⭐ If my work creates value, star a repository.  
+Let’s build systems that scale.
