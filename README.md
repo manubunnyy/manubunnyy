@@ -1,21 +1,42 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/manubunnyy/manubunnyy/main/images/pfp.png"
-       height="180"
-       style="border-radius:50%;" />
+  <img
+    src="https://raw.githubusercontent.com/manubunnyy/manubunnyy/main/images/pfp.png"
+    height="180"
+    style="border-radius:50%;"
+    alt="Manu profile picture"
+  />
 </p>
 
 <h1 align="center">Hi 👋, I'm Manu</h1>
 <h3 align="center">Computer Science Student @ VNRVJIET | Full-Stack Developer</h3>
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mangalarapu-manu/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="36"/>
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      height="36"
+      alt="LinkedIn"
+    />
   </a>
+
+  <!-- LeetCode (legacy, stable icon) -->
   <a href="https://leetcode.com/u/mangalarapumanu/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="36"/>
+    <img
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg"
+      height="32"
+      alt="LeetCode"
+      style="filter: invert(48%) sepia(90%) saturate(400%) hue-rotate(10deg);"
+    />
   </a>
+
+  <!-- Gmail -->
   <a href="mailto:mangalarapumanu@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="36"/>
+    <img
+      src="https://skillicons.dev/icons?i=gmail"
+      height="36"
+      alt="Email"
+    />
   </a>
 </p>
 
@@ -36,26 +57,35 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,git&theme=light" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,git&theme=light"
+    alt="Tech stack"
+  />
 </p>
 
 ---
 
-## 📊 GitHub Activity & Insights
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manubunnyy&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=manubunnyy&show_icons=true&theme=tokyonight"
+    alt="GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manubunnyy&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manubunnyy&layout=compact&theme=tokyonight"
+    alt="Top languages"
+  />
 </p>
 
 ---
 
 ## 🧠 Competitive Programming
 - 🔗 LeetCode: https://leetcode.com/u/mangalarapumanu/
-- Focus: **Data Structures, Algorithms, Problem Solving**
+- 🎯 Focus: **Data Structures, Algorithms, Problem Solving**
 
 ---
 
@@ -64,5 +94,5 @@
 
 ---
 
-⭐ If my work creates value, star a repository.  
+⭐ If my work adds value, star a repository.  
 Let’s build systems that scale.
