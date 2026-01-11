@@ -12,7 +12,6 @@
 </p>
 </p>
 
-✔ Pronouns: **He/His** or **TeamMaker**😉 <br>
 ✔ I’m currently Developing **My Portfolio** <br>
 ✔ I’m currently learning **MongoDB** & **Nest.js**<br>
 ✔ I'm quite good at **NodeJs**, **ReactJs**, **Next.js**.<br>
