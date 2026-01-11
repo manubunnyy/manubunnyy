@@ -15,9 +15,6 @@
   <a href="mailto:mangalarapumanu@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" height="30" width="40"/>
   </a>
-  <a href="https://gitlab.com/manubunnyy" target="_blank">
-    <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="30" width="40"/>
-  </a>
 </p>
 
 ---
