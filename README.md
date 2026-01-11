@@ -9,16 +9,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mangalarapu-manu/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="36"/>
   </a>
   <a href="https://leetcode.com/u/mangalarapumanu/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="32"/>
+    <img src="https://skillicons.dev/icons?i=leetcode" height="36"/>
   </a>
   <a href="mailto:mangalarapumanu@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="32"/>
-  </a>
-  <a href="https://gitlab.com/manubunnyy" target="_blank">
-    <img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="32"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="36"/>
   </a>
 </p>
 
@@ -47,10 +44,6 @@
 ## 📊 GitHub Activity & Insights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=manubunnyy&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manubunnyy&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -66,15 +59,10 @@
 
 ---
 
-## 📂 Version Control Footprint
-- 🔗 GitLab: https://gitlab.com/manubunnyy
-
----
-
 ## ⚡ Fun Fact
-> Under pressure, I code in **half-sleep, full-output mode** — and still ship.
+> Under pressure, I code in a **half-sleep, high-output mode** — and still ship.
 
 ---
 
-⭐ If my work adds value, star a repository.  
+⭐ If my work creates value, star a repository.  
 Let’s build systems that scale.
