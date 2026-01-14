@@ -11,7 +11,7 @@
 <h3 align="center">Computer Science Student @ VNRVJIET | Full-Stack Developer</h3>
 <!--Counter-->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=manubunnyy&label=Profile%20Views&color=grey&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=manubunnyy&label=profile+views&color=grey&style=flat&label=views&base=97"/>
 </div>
 <p align="center">
   <!-- LinkedIn -->
