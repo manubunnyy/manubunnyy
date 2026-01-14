@@ -25,7 +25,7 @@
   <!-- LeetCode (COLORED, STABLE) -->
   <a href="https://leetcode.com/u/mangalarapumanu/" target="_blank">
     <img
-      src="https://img.icons8.com/?size=100&id=6cdjttfIiwc0&format=png&color=000000"
+      src="https://img.icons8.com/?size=100&id=6cdjttfIiwc0&format=png&color=FFFFFF"
       height="36"
       alt="LeetCode"
     />
