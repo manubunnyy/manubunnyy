@@ -25,12 +25,13 @@
   <!-- LeetCode (COLORED, STABLE) -->
   <a href="https://leetcode.com/u/mangalarapumanu/" target="_blank">
     <img
-      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+      src="https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000"
       height="36"
       alt="LeetCode"
     />
   </a>
- #https://img.icons8.com/?size=100&id=9L16NypUzu38&format=png&color=000000
+
+ ##https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white
  
 
   <!-- Gmail -->
