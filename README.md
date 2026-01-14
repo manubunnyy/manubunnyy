@@ -51,9 +51,6 @@
 - 🤝 Open to **Open Source collaboration**
 - 📱 Exploring **React Native**
 - 🧠 Active problem solver on **LeetCode**
-
-> *If the ball is in my court, execution is guaranteed.*
-
 ---
 
 ## 🛠️ Tech Stack
