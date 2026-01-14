@@ -67,14 +67,7 @@
 
 ---
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=manubunnyy&show_icons=true&theme=tokyonight"
-    alt="GitHub stats"
-  />
-</p>
 
 <p align="center">
   <img
@@ -91,10 +84,4 @@
 
 ---
 
-## ⚡ Fun Fact
-> Under pressure, I code in a **half-sleep, high-output mode** — and still ship.
 
----
-
-⭐ If my work adds value, star a repository.  
-Let’s build systems that scale.
