@@ -31,9 +31,6 @@
     />
   </a>
 
- ##https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white
- 
-
   <!-- Gmail -->
   <a href="mailto:mangalarapumanu@gmail.com">
     <img
