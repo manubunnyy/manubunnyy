@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi 👋, I'm Manu</h1>
 <h3 align="center">Computer Science Student @ VNRVJIET | Full-Stack Developer</h3>
-<img src="https://komarev.com/ghpvc/?username=manubunnyy&label=profile+views&color=grey&style=flat&label=views&base=3000" />
+<img src="https://komarev.com/ghpvc/?username=manubunnyy&label=profile+views&color=grey&style=flat&label=views&base=97" align="center"/>
 
 <p align="center">
   <!-- LinkedIn -->
