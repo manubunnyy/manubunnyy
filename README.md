@@ -67,17 +67,6 @@
 
 ---
 
-
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manubunnyy&layout=compact&theme=tokyonight"
-    alt="Top languages"
-  />
-</p>
-
----
-
 ## 🧠 Competitive Programming
 - 🔗 LeetCode: https://leetcode.com/u/mangalarapumanu/
 - 🎯 Focus: **Data Structures, Algorithms, Problem Solving**
